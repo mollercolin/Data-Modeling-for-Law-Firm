@@ -1,0 +1,201 @@
+"FINANCIAL_ID";"NAME";"DESCRIPTION";"VALUE";"ACCOUNT_NR";"OWNERSHIP_PRCT"
+1;"Greenwich Estate";"Primary Residence";2450000.0;"N/A";50.0
+2;"Rivian R1S";"2023 Electric SUV";92000.0;"VIN-8821";100.0
+3;"Porsche 356";"1964 Vintage Collectible";125000.0;"VIN-0042";100.0
+4;"Mystic Waterfront";"Secondary Vacation Home";850000.0;"N/A";50.0
+5;"Vanguard Brokerage";"S&P 500 Index Fund";450000.0;"ACCT-9921";50.0
+6;"Crypto Wallet";"BTC/ETH Cold Storage";120000.0;"0x71C...32";100.0
+7;"Warhol Print";"Original Signed Serigraph";310000.0;"INV-102";50.0
+8;"Wine Collection";"500+ Bottles - Rare Bordeaux";45000.0;"CELLAR-A";100.0
+9;"Commercial Unit";"Medical Plaza Interest";1200000.0;"PART-55";25.0
+10;"Rolex Daytona";"Platinum 116506 Watch";95000.0;"SN-XYZ9";100.0
+11;"Fidelity 401k";"Employer Sponsored Plan";285000.0;"Fid-992";100.0
+12;"NYC Condo";"Upper West Side Studio";1150000.0;"N/A";100.0
+13;"Tesla Model S";"2024 Plaid";112000.0;"VIN-1192";100.0
+14;"Gold Bullion";"20oz Physical Bars";42000.0;"VAULT-01";50.0
+15;"Basquiat Sketch";"Early Career Work";550000.0;"ART-882";50.0
+16;"Aspen Ski Lodge";"Fractional Ownership";225000.0;"ASP-12";25.0
+17;"Charles Schwab";"High Yield Savings";88000.0;"CS-1123";50.0
+18;"E-Trade Portfolio";"Tech Sector Stocks";195000.0;"ET-4491";100.0
+19;"Range Rover";"2022 HSE";85000.0;"VIN-5521";100.0
+20;"Coinbase Account";"Alt-coin Portfolio";32000.0;"CB-002";100.0
+21;"Patrimony Watch";"Vacheron Constantin";42000.0;"SN-VC1";100.0
+22;"Summer Rental";"Narragansett RI Property";680000.0;"N/A";50.0
+23;"Series I Bonds";"Treasury Securities";20000.0;"TREAS-01";100.0
+24;"Roth IRA";"Vanguard Target Date";65000.0;"VG-881";100.0
+25;"HSA Account";"Optum Bank";12500.0;"HS-991";100.0
+26;"Boat Slip";"Greenwich Marina";150000.0;"SLIP-42";100.0
+27;"Life Insurance";"Cash Value Component";45000.0;"POL-772";100.0
+28;"Private Equity";"Tech Startup Series B";125000.0;"INV-09";100.0
+29;"Diamond Earrings";"3 Carat Total Weight";28000.0;"GIA-112";100.0
+30;"Vintage Leica";"M3 Camera Collection";12000.0;"SN-L42";100.0
+31;"Peloton Bike";"Plus Model";2500.0;"SN-P01";100.0
+32;"Checking Acct";"Chase Private Client";45000.0;"CH-882";50.0
+33;"Money Market";"Ally Bank";115000.0;"AL-003";50.0
+34;"Real Estate Fund";"Blackstone BREIT";75000.0;"BL-991";100.0
+35;"Rare Books";"First Edition Collection";18000.0;"LIB-11";100.0
+36;"Golf Cart";"Custom Club Car";15000.0;"SN-GC1";100.0
+37;"Jet Ski";"Sea-Doo GTX";18000.0;"VIN-SD1";100.0
+38;"Stamp Collection";"Historical Archives";8500.0;"ST-01";100.0
+39;"Antique Rug";"Persian Silk";22000.0;"INV-R1";100.0
+40;"Safe Deposit";"Cash Reserves";50000.0;"BOX-12";50.0
+41;"Stock Option";"Unvested RSU Package";140000.0;"RSU-01";100.0
+42;"Oil Lease";"Texas Mineral Rights";210000.0;"TX-882";25.0
+43;"Furniture";"Roche Bobois Set";35000.0;"INV-F1";50.0
+44;"Steinway Piano";"Model B Grand";95000.0;"SN-S99";50.0
+45;"Venture Fund";"Sequoia Capital VII";300000.0;"SEQ-01";100.0
+46;"Custodial Acct";"529 College Plan";85000.0;"529-01";100.0
+47;"T-Bills";"Short Term Notes";100000.0;"TREAS-02";50.0
+48;"Corporate Bond";"Apple Inc 4.5%";50000.0;"AAPL-B";100.0
+49;"Muni Bond";"NY State Tax Free";75000.0;"NY-MUNI";100.0
+50;"Hermes Bag";"Birkin 35 Blue";25000.0;"SN-H1";100.0
+51;"Apartment 51";"Rental Property Unit";248163.0;"ACCT-1051";50.0
+52;"Stocks 52";"Equity Holding";374921.0;"ACCT-1052";50.0
+53;"Bonds 53";"Fixed Income Asset";156382.0;"ACCT-1053";50.0
+54;"Mutual Fund 54";"Diversified Portfolio";421093.0;"ACCT-1054";50.0
+55;"IRA 55";"Retirement Account";92837.0;"ACCT-1055";50.0
+56;"401k 56";"Employer Plan";384722.0;"ACCT-1056";50.0
+57;"Vacation Home 57";"Beach House";492837.0;"ACCT-1057";50.0
+58;"Art Piece 58";"Oil Painting";27384.0;"ACCT-1058";50.0
+59;"Watch 59";"Luxury Timepiece";18374.0;"ACCT-1059";50.0
+60;"Classic Car 60";"Vintage Vehicle";83742.0;"ACCT-1060";50.0
+61;"Apartment 61";"Rental Property Unit";312837.0;"ACCT-1061";50.0
+62;"Stocks 62";"Equity Holding";421938.0;"ACCT-1062";50.0
+63;"Bonds 63";"Fixed Income Asset";183742.0;"ACCT-1063";50.0
+64;"Mutual Fund 64";"Diversified Portfolio";374829.0;"ACCT-1064";50.0
+65;"IRA 65";"Retirement Account";83742.0;"ACCT-1065";50.0
+66;"401k 66";"Employer Plan";421938.0;"ACCT-1066";50.0
+67;"Vacation Home 67";"Lake House";492837.0;"ACCT-1067";50.0
+68;"Art Piece 68";"Sculpture";37482.0;"ACCT-1068";50.0
+69;"Watch 69";"Luxury Timepiece";12938.0;"ACCT-1069";50.0
+70;"Classic Car 70";"Vintage Vehicle";93842.0;"ACCT-1070";50.0
+71;"Apartment 71";"Rental Property Unit";283742.0;"ACCT-1071";50.0
+72;"Stocks 72";"Equity Holding";472839.0;"ACCT-1072";50.0
+73;"Bonds 73";"Fixed Income Asset";129384.0;"ACCT-1073";50.0
+74;"Mutual Fund 74";"Diversified Portfolio";394827.0;"ACCT-1074";50.0
+75;"IRA 75";"Retirement Account";73842.0;"ACCT-1075";50.0
+76;"401k 76";"Employer Plan";482937.0;"ACCT-1076";50.0
+77;"Vacation Home 77";"Mountain Cabin";412837.0;"ACCT-1077";50.0
+78;"Art Piece 78";"Photography Print";18374.0;"ACCT-1078";50.0
+79;"Watch 79";"Luxury Timepiece";28374.0;"ACCT-1079";50.0
+80;"Classic Car 80";"Vintage Vehicle";73842.0;"ACCT-1080";50.0
+81;"Apartment 81";"Rental Property Unit";312837.0;"ACCT-1081";50.0
+82;"Stocks 82";"Equity Holding";428374.0;"ACCT-1082";50.0
+83;"Bonds 83";"Fixed Income Asset";193842.0;"ACCT-1083";50.0
+84;"Mutual Fund 84";"Diversified Portfolio";372849.0;"ACCT-1084";50.0
+85;"IRA 85";"Retirement Account";93842.0;"ACCT-1085";50.0
+86;"401k 86";"Employer Plan";412938.0;"ACCT-1086";50.0
+87;"Vacation Home 87";"Desert Retreat";482937.0;"ACCT-1087";50.0
+88;"Art Piece 88";"Modern Installation";48372.0;"ACCT-1088";50.0
+89;"Watch 89";"Luxury Timepiece";19384.0;"ACCT-1089";50.0
+90;"Classic Car 90";"Vintage Vehicle";63742.0;"ACCT-1090";50.0
+91;"Apartment 91";"Rental Property Unit";293847.0;"ACCT-1091";50.0
+92;"Stocks 92";"Equity Holding";482937.0;"ACCT-1092";50.0
+93;"Bonds 93";"Fixed Income Asset";183742.0;"ACCT-1093";50.0
+94;"Mutual Fund 94";"Diversified Portfolio";392847.0;"ACCT-1094";50.0
+95;"IRA 95";"Retirement Account";83742.0;"ACCT-1095";50.0
+96;"401k 96";"Employer Plan";472839.0;"ACCT-1096";50.0
+97;"Vacation Home 97";"Island Villa";492837.0;"ACCT-1097";50.0
+98;"Art Piece 98";"Abstract Canvas";38472.0;"ACCT-1098";50.0
+99;"Watch 99";"Luxury Timepiece";29384.0;"ACCT-1099";50.0
+100;"Classic Car 100";"Vintage Vehicle";83742.0;"ACCT-1100";50.0
+101;"Apartment 101";"Rental Property Unit";312837.0;"ACCT-1101";50.0
+102;"Stocks 102";"Equity Holding";421938.0;"ACCT-1102";50.0
+103;"Bonds 103";"Fixed Income Asset";183742.0;"ACCT-1103";50.0
+104;"Mutual Fund 104";"Diversified Portfolio";374829.0;"ACCT-1104";50.0
+105;"IRA 105";"Retirement Account";83742.0;"ACCT-1105";50.0
+106;"401k 106";"Employer Plan";421938.0;"ACCT-1106";50.0
+107;"Vacation Home 107";"Coastal Estate";492837.0;"ACCT-1107";50.0
+108;"Art Piece 108";"Bronze Work";37482.0;"ACCT-1108";50.0
+109;"Watch 109";"Luxury Timepiece";12938.0;"ACCT-1109";50.0
+110;"Classic Car 110";"Vintage Vehicle";93842.0;"ACCT-1110";50.0
+111;"Apartment 111";"Rental Property Unit";283742.0;"ACCT-1111";50.0
+112;"Stocks 112";"Equity Holding";472839.0;"ACCT-1112";50.0
+113;"Bonds 113";"Fixed Income Asset";129384.0;"ACCT-1113";50.0
+114;"Mutual Fund 114";"Diversified Portfolio";394827.0;"ACCT-1114";50.0
+115;"IRA 115";"Retirement Account";73842.0;"ACCT-1115";50.0
+116;"401k 116";"Employer Plan";482937.0;"ACCT-1116";50.0
+117;"Vacation Home 117";"Cabin in Woods";412837.0;"ACCT-1117";50.0
+118;"Art Piece 118";"Charcoal Drawing";18374.0;"ACCT-1118";50.0
+119;"Watch 119";"Luxury Timepiece";28374.0;"ACCT-1119";50.0
+120;"Classic Car 120";"Vintage Vehicle";73842.0;"ACCT-1120";50.0
+121;"Apartment 121";"Rental Property Unit";312837.0;"ACCT-1121";50.0
+122;"Stocks 122";"Equity Holding";428374.0;"ACCT-1122";50.0
+123;"Bonds 123";"Fixed Income Asset";193842.0;"ACCT-1123";50.0
+124;"Mutual Fund 124";"Diversified Portfolio";372849.0;"ACCT-1124";50.0
+125;"IRA 125";"Retirement Account";93842.0;"ACCT-1125";50.0
+126;"401k 126";"Employer Plan";412938.0;"ACCT-1126";50.0
+127;"Vacation Home 127";"Ski Resort Condo";482937.0;"ACCT-1127";50.0
+128;"Art Piece 128";"Pop Art";48372.0;"ACCT-1128";50.0
+129;"Watch 129";"Luxury Timepiece";19384.0;"ACCT-1129";50.0
+130;"Classic Car 130";"Vintage Vehicle";63742.0;"ACCT-1130";50.0
+131;"Apartment 131";"Rental Property Unit";293847.0;"ACCT-1131";50.0
+132;"Stocks 132";"Equity Holding";482937.0;"ACCT-1132";50.0
+133;"Bonds 133";"Fixed Income Asset";183742.0;"ACCT-1133";50.0
+134;"Mutual Fund 134";"Diversified Portfolio";392847.0;"ACCT-1134";50.0
+135;"IRA 135";"Retirement Account";83742.0;"ACCT-1135";50.0
+136;"401k 136";"Employer Plan";472839.0;"ACCT-1136";50.0
+137;"Vacation Home 137";"Rural Farmhouse";492837.0;"ACCT-1137";50.0
+138;"Art Piece 138";"Canvas Print";38472.0;"ACCT-1138";50.0
+139;"Watch 139";"Luxury Timepiece";29384.0;"ACCT-1139";50.0
+140;"Classic Car 140";"Vintage Vehicle";83742.0;"ACCT-1140";50.0
+141;"Apartment 141";"Rental Property Unit";312837.0;"ACCT-1141";50.0
+142;"Stocks 142";"Equity Holding";421938.0;"ACCT-1142";50.0
+143;"Bonds 143";"Fixed Income Asset";183742.0;"ACCT-1143";50.0
+144;"Mutual Fund 144";"Diversified Portfolio";374829.0;"ACCT-1144";50.0
+145;"IRA 145";"Retirement Account";83742.0;"ACCT-1145";50.0
+146;"401k 146";"Employer Plan";421938.0;"ACCT-1146";50.0
+147;"Vacation Home 147";"Penthouse Suite";492837.0;"ACCT-1147";50.0
+148;"Art Piece 148";"Street Art";37482.0;"ACCT-1148";50.0
+149;"Watch 149";"Luxury Timepiece";12938.0;"ACCT-1149";50.0
+150;"Classic Car 150";"Vintage Vehicle";93842.0;"ACCT-1150";50.0
+151;"Apartment 151";"Rental Property Unit";283742.0;"ACCT-1151";50.0
+152;"Stocks 152";"Equity Holding";472839.0;"ACCT-1152";50.0
+153;"Bonds 153";"Fixed Income Asset";129384.0;"ACCT-1153";50.0
+154;"Mutual Fund 154";"Diversified Portfolio";394827.0;"ACCT-1154";50.0
+155;"IRA 155";"Retirement Account";73842.0;"ACCT-1155";50.0
+156;"401k 156";"Employer Plan";482937.0;"ACCT-1156";50.0
+157;"Vacation Home 157";"Lakeside Cabin";412837.0;"ACCT-1157";50.0
+158;"Art Piece 158";"Folk Art";18374.0;"ACCT-1158";50.0
+159;"Watch 159";"Luxury Timepiece";28374.0;"ACCT-1159";50.0
+160;"Classic Car 160";"Vintage Vehicle";73842.0;"ACCT-1160";50.0
+161;"Apartment 161";"Rental Property Unit";312837.0;"ACCT-1161";50.0
+162;"Stocks 162";"Equity Holding";428374.0;"ACCT-1162";50.0
+163;"Bonds 163";"Fixed Income Asset";193842.0;"ACCT-1163";50.0
+164;"Mutual Fund 164";"Diversified Portfolio";372849.0;"ACCT-1164";50.0
+165;"IRA 165";"Retirement Account";93842.0;"ACCT-1165";50.0
+166;"401k 166";"Employer Plan";412938.0;"ACCT-1166";50.0
+167;"Vacation Home 167";"Ocean Front";482937.0;"ACCT-1167";50.0
+168;"Art Piece 168";"Digital Asset";48372.0;"ACCT-1168";50.0
+169;"Watch 169";"Luxury Timepiece";19384.0;"ACCT-1169";50.0
+170;"Classic Car 170";"Vintage Vehicle";63742.0;"ACCT-1170";50.0
+171;"Apartment 171";"Rental Property Unit";293847.0;"ACCT-1171";50.0
+172;"Stocks 172";"Equity Holding";482937.0;"ACCT-1172";50.0
+173;"Bonds 173";"Fixed Income Asset";183742.0;"ACCT-1173";50.0
+174;"Mutual Fund 174";"Diversified Portfolio";392847.0;"ACCT-1174";50.0
+175;"IRA 175";"Retirement Account";83742.0;"ACCT-1175";50.0
+176;"401k 176";"Employer Plan";472839.0;"ACCT-1176";50.0
+177;"Vacation Home 177";"Suburban Rental";492837.0;"ACCT-1177";50.0
+178;"Art Piece 178";"Neon Sign";38472.0;"ACCT-1178";50.0
+179;"Watch 179";"Luxury Timepiece";29384.0;"ACCT-1179";50.0
+180;"Classic Car 180";"Vintage Vehicle";83742.0;"ACCT-1180";50.0
+181;"Apartment 181";"Rental Property Unit";312837.0;"ACCT-1181";50.0
+182;"Stocks 182";"Equity Holding";421938.0;"ACCT-1182";50.0
+183;"Bonds 183";"Fixed Income Asset";183742.0;"ACCT-1183";50.0
+184;"Mutual Fund 184";"Diversified Portfolio";374829.0;"ACCT-1184";50.0
+185;"IRA 185";"Retirement Account";83742.0;"ACCT-1185";50.0
+186;"401k 186";"Employer Plan";421938.0;"ACCT-1186";50.0
+187;"Vacation Home 187";"Vineyard Cottage";492837.0;"ACCT-1187";50.0
+188;"Art Piece 188";"Woven Textile";37482.0;"ACCT-1188";50.0
+189;"Watch 189";"Luxury Timepiece";12938.0;"ACCT-1189";50.0
+190;"Classic Car 190";"Vintage Vehicle";93842.0;"ACCT-1190";50.0
+191;"Apartment 191";"Rental Property Unit";283742.0;"ACCT-1191";50.0
+192;"Stocks 192";"Equity Holding";472839.0;"ACCT-1192";50.0
+193;"Bonds 193";"Fixed Income Asset";129384.0;"ACCT-1193";50.0
+194;"Mutual Fund 194";"Diversified Portfolio";394827.0;"ACCT-1194";50.0
+195;"IRA 195";"Retirement Account";73842.0;"ACCT-1195";50.0
+196;"401k 196";"Employer Plan";482937.0;"ACCT-1196";50.0
+197;"Vacation Home 197";"Golf Course Villa";412837.0;"ACCT-1197";50.0
+198;"Art Piece 198";"Mosaic Wall";18374.0;"ACCT-1198";50.0
+199;"Watch 199";"Luxury Timepiece";28374.0;"ACCT-1199";50.0
+200;"Classic Car 200";"Vintage Vehicle";73842.0;"ACCT-1200";50.0

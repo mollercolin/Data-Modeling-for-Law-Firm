@@ -1,0 +1,201 @@
+"FINANCIAL_ID";"NAME";"DESCRIPTION";"BALANCE";"OWNERSHIP_PRCT"
+201;"BofA Mortgage";"30-Year Fixed";1850000.0;50.0
+202;"Sallie Mae";"Bates College Loan";45000.0;100.0
+203;"Amex Centurion";"Revolving Credit";42000.0;50.0
+204;"Chase Auto";"Rivian R1S Finance";65000.0;100.0
+205;"Wells Fargo HELOC";"Equity Line";210000.0;50.0
+206;"IRS Back Taxes";"2024 Liability";8500.0;50.0
+207;"Solar Panel Loan";"Energy Finance";32000.0;100.0
+208;"Jewelry Financing";"Ring Purchase";15000.0;100.0
+209;"Business Loan";"Practice Debt";450000.0;100.0
+210;"Marathon Credit";"Boat Financing";120000.0;50.0
+211;"Credit Card 211";"Debt Detail 211";12837.0;100.0
+212;"Mortgage 212";"Debt Detail 212";49283.0;100.0
+213;"Personal Loan 213";"Debt Detail 213";18374.0;100.0
+214;"Auto Loan 214";"Debt Detail 214";28374.0;100.0
+215;"HELOC 215";"Debt Detail 215";73842.0;100.0
+216;"Student Loan 216";"Debt Detail 216";31283.0;100.0
+217;"Business Debt 217";"Debt Detail 217";42193.0;100.0
+218;"Credit Card 218";"Debt Detail 218";18374.0;100.0
+219;"Mortgage 219";"Debt Detail 219";37482.0;100.0
+220;"Personal Loan 220";"Debt Detail 220";8374.0;100.0
+221;"Auto Loan 221";"Debt Detail 221";42193.0;100.0
+222;"HELOC 222";"Debt Detail 222";49283.0;100.0
+223;"Student Loan 223";"Debt Detail 223";37482.0;100.0
+224;"Business Debt 224";"Debt Detail 224";12938.0;100.0
+225;"Credit Card 225";"Debt Detail 225";93842.0;100.0
+226;"Mortgage 226";"Debt Detail 226";28374.0;100.0
+227;"Personal Loan 227";"Debt Detail 227";47283.0;100.0
+228;"Auto Loan 228";"Debt Detail 228";12938.0;100.0
+229;"HELOC 229";"Debt Detail 229";39482.0;100.0
+230;"Student Loan 230";"Debt Detail 230";7384.0;100.0
+231;"Business Debt 231";"Debt Detail 231";48293.0;100.0
+232;"Credit Card 232";"Debt Detail 232";41283.0;100.0
+233;"Mortgage 233";"Debt Detail 233";18374.0;100.0
+234;"Personal Loan 234";"Debt Detail 234";28374.0;100.0
+235;"Auto Loan 235";"Debt Detail 235";7384.0;100.0
+236;"HELOC 236";"Debt Detail 236";31283.0;100.0
+237;"Student Loan 237";"Debt Detail 237";42837.0;100.0
+238;"Business Debt 238";"Debt Detail 238";19384.0;100.0
+239;"Credit Card 239";"Debt Detail 239";37284.0;100.0
+240;"Mortgage 240";"Debt Detail 240";9384.0;100.0
+241;"Personal Loan 241";"Debt Detail 241";41293.0;100.0
+242;"Auto Loan 242";"Debt Detail 242";48293.0;100.0
+243;"HELOC 243";"Debt Detail 243";48372.0;100.0
+244;"Student Loan 244";"Debt Detail 244";19384.0;100.0
+245;"Business Debt 245";"Debt Detail 245";6374.0;100.0
+246;"Credit Card 246";"Debt Detail 246";29384.0;100.0
+247;"Mortgage 247";"Debt Detail 247";48293.0;100.0
+248;"Personal Loan 248";"Debt Detail 248";18374.0;100.0
+249;"Auto Loan 249";"Debt Detail 249";39284.0;100.0
+250;"HELOC 250";"Debt Detail 250";8374.0;100.0
+251;"Student Loan 251";"Debt Detail 251";47283.0;100.0
+252;"Business Debt 252";"Debt Detail 252";49283.0;100.0
+253;"Credit Card 253";"Debt Detail 253";38472.0;100.0
+254;"Mortgage 254";"Debt Detail 254";29384.0;100.0
+255;"Personal Loan 255";"Debt Detail 255";8374.0;100.0
+256;"Auto Loan 256";"Debt Detail 256";31283.0;100.0
+257;"HELOC 257";"Debt Detail 257";42193.0;100.0
+258;"Student Loan 258";"Debt Detail 258";18374.0;100.0
+259;"Business Debt 259";"Debt Detail 259";37482.0;100.0
+260;"Credit Card 260";"Debt Detail 260";8374.0;100.0
+261;"Mortgage 261";"Debt Detail 261";42193.0;100.0
+262;"Personal Loan 262";"Debt Detail 262";49283.0;100.0
+263;"Auto Loan 263";"Debt Detail 263";37482.0;100.0
+264;"HELOC 264";"Debt Detail 264";12938.0;100.0
+265;"Student Loan 265";"Debt Detail 265";93842.0;100.0
+266;"Business Debt 266";"Debt Detail 266";28374.0;100.0
+267;"Credit Card 267";"Debt Detail 267";47283.0;100.0
+268;"Mortgage 268";"Debt Detail 268";12938.0;100.0
+269;"Personal Loan 269";"Debt Detail 269";39482.0;100.0
+270;"Auto Loan 270";"Debt Detail 270";7384.0;100.0
+271;"HELOC 271";"Debt Detail 271";48293.0;100.0
+272;"Student Loan 272";"Debt Detail 272";41283.0;100.0
+273;"Business Debt 273";"Debt Detail 273";18374.0;100.0
+274;"Credit Card 274";"Debt Detail 274";28374.0;100.0
+275;"Mortgage 275";"Debt Detail 275";7384.0;100.0
+276;"Personal Loan 276";"Debt Detail 276";31283.0;100.0
+277;"Auto Loan 277";"Debt Detail 277";42837.0;100.0
+278;"HELOC 278";"Debt Detail 278";19384.0;100.0
+279;"Student Loan 279";"Debt Detail 279";37284.0;100.0
+280;"Business Debt 280";"Debt Detail 280";9384.0;100.0
+281;"Credit Card 281";"Debt Detail 281";41293.0;100.0
+282;"Mortgage 282";"Debt Detail 282";48293.0;100.0
+283;"Personal Loan 283";"Debt Detail 283";48372.0;100.0
+284;"Auto Loan 284";"Debt Detail 284";19384.0;100.0
+285;"HELOC 285";"Debt Detail 285";6374.0;100.0
+286;"Student Loan 286";"Debt Detail 286";29384.0;100.0
+287;"Business Debt 287";"Debt Detail 287";48293.0;100.0
+288;"Credit Card 288";"Debt Detail 288";18374.0;100.0
+289;"Mortgage 289";"Debt Detail 289";39284.0;100.0
+290;"Personal Loan 290";"Debt Detail 290";8374.0;100.0
+291;"Auto Loan 291";"Debt Detail 291";47283.0;100.0
+292;"HELOC 292";"Debt Detail 292";49283.0;100.0
+293;"Student Loan 293";"Debt Detail 293";38472.0;100.0
+294;"Business Debt 294";"Debt Detail 294";29384.0;100.0
+295;"Credit Card 295";"Debt Detail 295";8374.0;100.0
+296;"Mortgage 296";"Debt Detail 296";31283.0;100.0
+297;"Personal Loan 297";"Debt Detail 297";42193.0;100.0
+298;"Auto Loan 298";"Debt Detail 298";18374.0;100.0
+299;"HELOC 299";"Debt Detail 299";37482.0;100.0
+300;"Student Loan 300";"Debt Detail 300";8374.0;100.0
+301;"Business Debt 301";"Debt Detail 301";42193.0;100.0
+302;"Credit Card 302";"Debt Detail 302";49283.0;100.0
+303;"Mortgage 303";"Debt Detail 303";37482.0;100.0
+304;"Personal Loan 304";"Debt Detail 304";12938.0;100.0
+305;"Auto Loan 305";"Debt Detail 305";93842.0;100.0
+306;"HELOC 306";"Debt Detail 306";28374.0;100.0
+307;"Student Loan 307";"Debt Detail 307";47283.0;100.0
+308;"Business Debt 308";"Debt Detail 308";12938.0;100.0
+309;"Credit Card 309";"Debt Detail 309";39482.0;100.0
+310;"Mortgage 310";"Debt Detail 310";7384.0;100.0
+311;"Personal Loan 311";"Debt Detail 311";48293.0;100.0
+312;"Auto Loan 312";"Debt Detail 312";41283.0;100.0
+313;"HELOC 313";"Debt Detail 313";18374.0;100.0
+314;"Student Loan 314";"Debt Detail 314";28374.0;100.0
+315;"Business Debt 315";"Debt Detail 315";7384.0;100.0
+316;"Credit Card 316";"Debt Detail 316";31283.0;100.0
+317;"Mortgage 317";"Debt Detail 317";42837.0;100.0
+318;"Personal Loan 318";"Debt Detail 318";19384.0;100.0
+319;"Auto Loan 319";"Debt Detail 319";37284.0;100.0
+320;"HELOC 320";"Debt Detail 320";9384.0;100.0
+321;"Student Loan 321";"Debt Detail 321";41293.0;100.0
+322;"Business Debt 322";"Debt Detail 322";48293.0;100.0
+323;"Credit Card 323";"Debt Detail 323";48372.0;100.0
+324;"Mortgage 324";"Debt Detail 324";19384.0;100.0
+325;"Personal Loan 325";"Debt Detail 325";6374.0;100.0
+326;"Auto Loan 326";"Debt Detail 326";29384.0;100.0
+327;"HELOC 327";"Debt Detail 327";48293.0;100.0
+328;"Student Loan 328";"Debt Detail 328";18374.0;100.0
+329;"Business Debt 329";"Debt Detail 329";39284.0;100.0
+330;"Credit Card 330";"Debt Detail 330";8374.0;100.0
+331;"Mortgage 331";"Debt Detail 331";47283.0;100.0
+332;"Personal Loan 332";"Debt Detail 332";49283.0;100.0
+333;"Auto Loan 333";"Debt Detail 333";38472.0;100.0
+334;"HELOC 334";"Debt Detail 334";29384.0;100.0
+335;"Student Loan 335";"Debt Detail 335";8374.0;100.0
+336;"Business Debt 336";"Debt Detail 336";31283.0;100.0
+337;"Credit Card 337";"Debt Detail 337";42193.0;100.0
+338;"Mortgage 338";"Debt Detail 338";18374.0;100.0
+339;"Personal Loan 339";"Debt Detail 339";37482.0;100.0
+340;"Auto Loan 340";"Debt Detail 340";8374.0;100.0
+341;"HELOC 341";"Debt Detail 341";42193.0;100.0
+342;"Student Loan 342";"Debt Detail 342";49283.0;100.0
+343;"Business Debt 343";"Debt Detail 343";37482.0;100.0
+344;"Credit Card 344";"Debt Detail 344";12938.0;100.0
+345;"Mortgage 345";"Debt Detail 345";93842.0;100.0
+346;"Personal Loan 346";"Debt Detail 346";28374.0;100.0
+347;"Auto Loan 347";"Debt Detail 347";47283.0;100.0
+348;"HELOC 348";"Debt Detail 348";12938.0;100.0
+349;"Student Loan 349";"Debt Detail 349";39482.0;100.0
+350;"Business Debt 350";"Debt Detail 350";7384.0;100.0
+351;"Credit Card 351";"Debt Detail 351";48293.0;100.0
+352;"Mortgage 352";"Debt Detail 352";41283.0;100.0
+353;"Personal Loan 353";"Debt Detail 353";18374.0;100.0
+354;"Auto Loan 354";"Debt Detail 354";28374.0;100.0
+355;"HELOC 355";"Debt Detail 355";7384.0;100.0
+356;"Student Loan 356";"Debt Detail 356";31283.0;100.0
+357;"Business Debt 357";"Debt Detail 357";42837.0;100.0
+358;"Credit Card 358";"Debt Detail 358";19384.0;100.0
+359;"Mortgage 359";"Debt Detail 359";37284.0;100.0
+360;"Personal Loan 360";"Debt Detail 360";9384.0;100.0
+361;"Auto Loan 361";"Debt Detail 361";41293.0;100.0
+362;"HELOC 362";"Debt Detail 362";48293.0;100.0
+363;"Student Loan 363";"Debt Detail 363";48372.0;100.0
+364;"Business Debt 364";"Debt Detail 364";19384.0;100.0
+365;"Credit Card 365";"Debt Detail 365";6374.0;100.0
+366;"Mortgage 366";"Debt Detail 366";29384.0;100.0
+367;"Personal Loan 367";"Debt Detail 367";48293.0;100.0
+368;"Auto Loan 368";"Debt Detail 368";18374.0;100.0
+369;"HELOC 369";"Debt Detail 369";39284.0;100.0
+370;"Student Loan 370";"Debt Detail 370";8374.0;100.0
+371;"Business Debt 371";"Debt Detail 371";47283.0;100.0
+372;"Credit Card 372";"Debt Detail 372";49283.0;100.0
+373;"Mortgage 373";"Debt Detail 373";38472.0;100.0
+374;"Personal Loan 374";"Debt Detail 374";29384.0;100.0
+375;"Auto Loan 375";"Debt Detail 375";8374.0;100.0
+376;"HELOC 376";"Debt Detail 376";31283.0;100.0
+377;"Student Loan 377";"Debt Detail 377";42193.0;100.0
+378;"Business Debt 378";"Debt Detail 378";18374.0;100.0
+379;"Credit Card 379";"Debt Detail 379";37482.0;100.0
+380;"Mortgage 380";"Debt Detail 380";8374.0;100.0
+381;"Personal Loan 381";"Debt Detail 381";42193.0;100.0
+382;"Auto Loan 382";"Debt Detail 382";49283.0;100.0
+383;"HELOC 383";"Debt Detail 383";37482.0;100.0
+384;"Student Loan 384";"Debt Detail 384";12938.0;100.0
+385;"Business Debt 385";"Debt Detail 385";93842.0;100.0
+386;"Credit Card 386";"Debt Detail 386";28374.0;100.0
+387;"Mortgage 387";"Debt Detail 387";47283.0;100.0
+388;"Personal Loan 388";"Debt Detail 388";12938.0;100.0
+389;"Auto Loan 389";"Debt Detail 389";39482.0;100.0
+390;"HELOC 390";"Debt Detail 390";7384.0;100.0
+391;"Student Loan 391";"Debt Detail 391";48293.0;100.0
+392;"Business Debt 392";"Debt Detail 392";41283.0;100.0
+393;"Credit Card 393";"Debt Detail 393";18374.0;100.0
+394;"Mortgage 394";"Debt Detail 394";28374.0;100.0
+395;"Personal Loan 395";"Debt Detail 395";7384.0;100.0
+396;"Auto Loan 396";"Debt Detail 396";31283.0;100.0
+397;"HELOC 397";"Debt Detail 397";42837.0;100.0
+398;"Student Loan 398";"Debt Detail 398";19384.0;100.0
+399;"Business Debt 399";"Debt Detail 399";37284.0;100.0
+400;"Credit Card 400";"Debt Detail 400";9384.0;100.0

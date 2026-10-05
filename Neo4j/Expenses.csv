@@ -1,0 +1,201 @@
+"FINANCIAL_ID";"DESCRIPTION";"COST"
+401;"Equinox Gym";350.0
+402;"Nanny/Childcare";4200.0
+403;"Whole Foods";1800.0
+404;"Dry Cleaning";275.0
+405;"Peloton Membership";44.0
+406;"Fairfield Prep";3800.0
+407;"Landscaping/Pool";600.0
+408;"Streaming Bundle";75.0
+409;"BMW Lease";950.0
+410;"Weekly Therapy";800.0
+411;"Country Club";1200.0
+412;"Utility - Electric";450.0
+413;"Utility - Water";120.0
+414;"Property Taxes";2100.0
+415;"Health Insurance";1400.0
+416;"Dog Grooming 416";300.0
+417;"Wine Club 417";150.0
+418;"Grocery 418";2938.0
+419;"Dining Out 419";1293.0
+420;"Travel 420";1837.0
+421;"Subscription 421";482.0
+422;"Insurance 422";938.0
+423;"Taxes 423";2837.0
+424;"Maintenance 424";1293.0
+425;"Childcare 425";394.0
+426;"Grocery 426";738.0
+427;"Dining Out 427";482.0
+428;"Travel 428";412.0
+429;"Subscription 429";183.0
+430;"Insurance 430";283.0
+431;"Taxes 431";73.0
+432;"Maintenance 432";312.0
+433;"Childcare 433";428.0
+434;"Grocery 434";193.0
+435;"Dining Out 435";372.0
+436;"Travel 436";93.0
+437;"Subscription 437";412.0
+438;"Insurance 438";482.0
+439;"Taxes 439";483.0
+440;"Maintenance 440";193.0
+441;"Childcare 441";63.0
+442;"Grocery 442";293.0
+443;"Dining Out 443";482.0
+444;"Travel 444";183.0
+445;"Subscription 445";392.0
+446;"Insurance 446";83.0
+447;"Taxes 447";472.0
+448;"Maintenance 448";492.0
+449;"Childcare 449";384.0
+450;"Grocery 450";293.0
+451;"Dining Out 451";83.0
+452;"Travel 452";312.0
+453;"Subscription 453";421.0
+454;"Insurance 454";183.0
+455;"Taxes 455";374.0
+456;"Maintenance 456";83.0
+457;"Childcare 457";421.0
+458;"Grocery 458";492.0
+459;"Dining Out 459";374.0
+460;"Travel 460";129.0
+461;"Subscription 461";938.0
+462;"Insurance 462";283.0
+463;"Taxes 463";472.0
+464;"Maintenance 464";129.0
+465;"Childcare 465";394.0
+466;"Grocery 466";73.0
+467;"Dining Out 467";482.0
+468;"Travel 468";412.0
+469;"Subscription 469";183.0
+470;"Insurance 470";283.0
+471;"Taxes 471";73.0
+472;"Maintenance 472";312.0
+473;"Childcare 473";428.0
+474;"Grocery 474";193.0
+475;"Dining Out 475";372.0
+476;"Travel 476";93.0
+477;"Subscription 477";412.0
+478;"Insurance 478";482.0
+479;"Taxes 479";483.0
+480;"Maintenance 480";193.0
+481;"Childcare 481";63.0
+482;"Grocery 482";293.0
+483;"Dining Out 483";482.0
+484;"Travel 484";183.0
+485;"Subscription 485";392.0
+486;"Insurance 486";83.0
+487;"Taxes 487";472.0
+488;"Maintenance 488";492.0
+489;"Childcare 489";384.0
+490;"Grocery 490";293.0
+491;"Dining Out 491";83.0
+492;"Travel 492";312.0
+493;"Subscription 493";421.0
+494;"Insurance 494";183.0
+495;"Taxes 495";374.0
+496;"Maintenance 496";83.0
+497;"Childcare 497";421.0
+498;"Grocery 498";492.0
+499;"Dining Out 499";374.0
+500;"Travel 500";129.0
+501;"Subscription 501";938.0
+502;"Insurance 502";283.0
+503;"Taxes 503";472.0
+504;"Maintenance 504";129.0
+505;"Childcare 505";394.0
+506;"Grocery 506";73.0
+507;"Dining Out 507";482.0
+508;"Travel 508";412.0
+509;"Subscription 509";183.0
+510;"Insurance 510";283.0
+511;"Taxes 511";73.0
+512;"Maintenance 512";312.0
+513;"Childcare 513";428.0
+514;"Grocery 514";193.0
+515;"Dining Out 515";372.0
+516;"Travel 516";93.0
+517;"Subscription 517";412.0
+518;"Insurance 518";482.0
+519;"Taxes 519";483.0
+520;"Maintenance 520";193.0
+521;"Childcare 521";63.0
+522;"Grocery 522";293.0
+523;"Dining Out 523";482.0
+524;"Travel 524";183.0
+525;"Subscription 525";392.0
+526;"Insurance 526";83.0
+527;"Taxes 527";472.0
+528;"Maintenance 528";492.0
+529;"Childcare 529";384.0
+530;"Grocery 530";293.0
+531;"Dining Out 531";83.0
+532;"Travel 532";312.0
+533;"Subscription 533";421.0
+534;"Insurance 534";183.0
+535;"Taxes 535";374.0
+536;"Maintenance 536";83.0
+537;"Childcare 537";421.0
+538;"Grocery 538";492.0
+539;"Dining Out 539";374.0
+540;"Travel 540";129.0
+541;"Subscription 541";938.0
+542;"Insurance 542";283.0
+543;"Taxes 543";472.0
+544;"Maintenance 544";129.0
+545;"Childcare 545";394.0
+546;"Grocery 546";73.0
+547;"Dining Out 547";482.0
+548;"Travel 548";412.0
+549;"Subscription 549";183.0
+550;"Insurance 550";283.0
+551;"Taxes 551";73.0
+552;"Maintenance 552";312.0
+553;"Childcare 553";428.0
+554;"Grocery 554";193.0
+555;"Dining Out 555";372.0
+556;"Travel 556";93.0
+557;"Subscription 557";412.0
+558;"Insurance 558";482.0
+559;"Taxes 559";483.0
+560;"Maintenance 560";193.0
+561;"Childcare 561";63.0
+562;"Grocery 562";293.0
+563;"Dining Out 563";482.0
+564;"Travel 564";183.0
+565;"Subscription 565";392.0
+566;"Insurance 566";83.0
+567;"Taxes 567";472.0
+568;"Maintenance 568";492.0
+569;"Childcare 569";384.0
+570;"Grocery 570";293.0
+571;"Dining Out 571";83.0
+572;"Travel 572";312.0
+573;"Subscription 573";421.0
+574;"Insurance 574";183.0
+575;"Taxes 575";374.0
+576;"Maintenance 576";83.0
+577;"Childcare 577";421.0
+578;"Grocery 578";492.0
+579;"Dining Out 579";374.0
+580;"Travel 580";129.0
+581;"Subscription 581";938.0
+582;"Insurance 582";283.0
+583;"Taxes 583";472.0
+584;"Maintenance 584";129.0
+585;"Childcare 585";394.0
+586;"Grocery 586";73.0
+587;"Dining Out 587";482.0
+588;"Travel 588";412.0
+589;"Subscription 589";183.0
+590;"Insurance 590";283.0
+591;"Taxes 591";73.0
+592;"Maintenance 592";312.0
+593;"Childcare 593";428.0
+594;"Grocery 594";193.0
+595;"Dining Out 595";372.0
+596;"Travel 596";93.0
+597;"Subscription 597";412.0
+598;"Insurance 598";482.0
+599;"Taxes 599";483.0
+600;"Maintenance 600";193.0
