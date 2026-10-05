@@ -1,11 +1,9 @@
 # Data-Modeling-for-Law-Firm
-A unified relational database (MySQL) with a Python analytics layer and a Neo4j graph extension, built for a fictional boutique law firm: Data Management Spring 2026
+A unified relational database (MySQL) with a Python analytics layer and a Neo4j graph extension, built for a fictional boutique law firm
 
 # Fifty, Fifty & Moore, LLP: Divorce Law Firm Database
 
-A unified relational database (MySQL) with a Python analytics layer and a Neo4j graph extension, built for a fictional boutique law firm that handles high-asset divorce cases.
-
-**Author:** Colin Moller · DADS 6700 · Spring 2026
+**Author:** Colin Moller · DADS 6700: Data Management · Spring 2026
 
 ---
 
