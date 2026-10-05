@@ -42,8 +42,10 @@ The project moves through the full design process: conceptual modeling (EER and 
 │   ├── Expenses.csv
 │   ├── PARTY.csv
 │   └── PF.csv               # Party–Financial links (become graph edges)
-└── docs/
-    └── Moller_Final_Project_Summary.pdf
+└── Models/
+│   ├── EER Model.pdf
+│   ├── Relational Model.pdf
+│   └── UML Model.pdf 
 ```
 
 ## Disclaimer
